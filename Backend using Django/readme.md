@@ -15,7 +15,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/iar01/supreme-guacamole](https://github.com/iar01/supreme-guacamole)
+   git clone [https://github.com/user1880/finalproject](https://github.com/user1880/finalproject)
     ```
 
 ## Prerequisites
